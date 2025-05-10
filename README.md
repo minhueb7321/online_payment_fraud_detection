@@ -24,32 +24,8 @@ This project detects online payment fraud using machine learning techniques on G
 
 The dataset is sourced from Kaggle.
 
-## Project Structure
-```
-online_payment_fraud_detection/
-├── online_payment_fraud_detection.zip  
-├── notebooks/                         
-│   └── fraud_detection.ipynb
-├── data/                            
-│   └── dataset.csv
-├── requirements.txt                 
-```
-
-## How to Use
-### 1. Set Up Environment on Colab
-- Download the `online_payment_fraud_detection.zip` file from this repository.
-- Upload the ZIP file to Google Colab.
-- Unzip the file in Colab by running:
-  ```
-  !unzip online_payment_fraud_detection.zip -d .
-  ```
-- Install required libraries by running:
-  ```
-  !pip install -r requirements.txt
-  ```
-
-### 2. Run the Project
-- Open the `fraud_detection.ipynb` file in Colab (after unzipping).
+## Run the Project
+- Open the `fraud_detection.ipynb` file in Colab .
 - Execute the cells to preprocess data, train models, and evaluate performance.
 - If the dataset is embedded, no additional upload is needed.
 
