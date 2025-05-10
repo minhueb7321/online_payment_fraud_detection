@@ -35,6 +35,5 @@ The dataset is sourced from Kaggle.
 
 ## Dataset
 - Source: Kaggle [https://www.kaggle.com/code/seuwenfei/online-payment-fraud-detection/input].
-- Included within the ZIP file or notebook.
 
 
