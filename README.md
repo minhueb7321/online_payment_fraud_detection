@@ -61,12 +61,4 @@ online_payment_fraud_detection/
 - Source: Kaggle [https://www.kaggle.com/code/seuwenfei/online-payment-fraud-detection/input].
 - Included within the ZIP file or notebook.
 
-## Notes
-- Ensure internet access in Colab to install dependencies.
-- If the dataset is large, verify it works within Colab's memory limits.
-
-## Screenshots
-![Model Performance](screenshots/model_performance.png)  
-*Performance metrics of the fraud detection models (to be added if available).*
-
 
