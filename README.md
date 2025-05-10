@@ -58,7 +58,7 @@ online_payment_fraud_detection/
 - Python libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `imbalanced-learn`.
 
 ## Dataset
-- Source: Kaggle [[insert link](https://www.kaggle.com/code/seuwenfei/online-payment-fraud-detection/input)].
+- Source: Kaggle [https://www.kaggle.com/code/seuwenfei/online-payment-fraud-detection/input].
 - Included within the ZIP file or notebook.
 
 ## Notes
